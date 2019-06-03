@@ -1,0 +1,23 @@
+{
+  "name": "GitHub_avatar_downloader",
+  "version": "1.0.0",
+  "description": "## Problem Statement",
+  "main": "gitHub_avatar_downloader.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AnnaTykhomyrova/GitHub-Avatar-Downloader.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AnnaTykhomyrova/GitHub-Avatar-Downloader/issues"
+  },
+  "homepage": "https://github.com/AnnaTykhomyrova/GitHub-Avatar-Downloader#readme",
+  "dependencies": {
+    "request": "^2.88.0"
+  }
+}
